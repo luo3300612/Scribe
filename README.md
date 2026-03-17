@@ -1,5 +1,4 @@
 # 📚 Scribe
-![output](assets/output.png)
 
 
 自动将 PDF 学术论文解析为结构化 Notion 笔记。
@@ -9,6 +8,7 @@
 ---
 
 ## 效果预览
+![output](assets/output.png)
 
 
 每篇论文生成一个 Notion 页面，包含：
